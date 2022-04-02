@@ -4,7 +4,7 @@ metadata:
   name: goapp
 spec:
   rules:
-  - host: goapp.3.238.18.142.sslip.io
+  - host: https://www.uol.com.br/
     http:
       paths:
       - backend:
