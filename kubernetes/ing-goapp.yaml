@@ -4,7 +4,7 @@ metadata:
   name: goapp
 spec:
   rules:
-  - host: https://www.uol.com.br/
+  - host: goapp.3.238.18.142
     http:
       paths:
       - backend:
